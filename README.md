@@ -6,6 +6,11 @@ Jogo web em que o jogador precisa "matar" mosquitos que aparecem na tela, testan
 
 Projeto desenvolvido durante um curso de Desenvolvimento Web para praticar manipulação do DOM, eventos de clique/interação e lógica de jogo em JavaScript puro.
 
+## 🚀 Demo
+
+🔗 [Jogar agora](https://jvi-joaovictor.github.io/Mata_Mosquito/)
+<img width="1344" height="658" alt="Screenshot 2026-07-15 184632" src="https://github.com/user-attachments/assets/9921e487-efb1-4b7b-8572-a20bb7a9bb50" />
+
 
 ## 🛠️ Tecnologias
 
